@@ -51,22 +51,19 @@
     "Português - BR (nativo)",
     "Inglês (intermediário)"
   ],
-  "educacao": [
+  "education": [
     {
-      "nome": "Bacharelado em Ciência da Computação",
-      "descricao": "",
-      "instituicao": "Universidade Federal do Cariri",
-      "periodo": {
-        "inicio": "2022",
-        "fim": "Atualmente"
-      },
+      "name": "Bacharelado em Ciência da Computação",
+      "description": "",
+      "instituition": "Universidade Federal do Cariri",
+      "period": "2022 - atualmente",
       "certificados": [
         {
-          "nome": "Dominando Conceitos Avançados em JavaScript",
+          "name": "Dominando Conceitos Avançados em JavaScript",
           "link": "https://www.dio.me/certificate/E008C0D9"
         },
         {
-          "nome": "Criando e Estilizando uma Página de Portfólio Profissional com CSS e JavaScript",
+          "name": "Criando e Estilizando uma Página de Portfólio Profissional com CSS e JavaScript",
           "link": "https://www.dio.me/certificate/978280ED"
         }
       ]
