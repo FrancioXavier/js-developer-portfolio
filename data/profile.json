@@ -76,17 +76,17 @@
     {
       "name": "Blog feito com Node.js e MongoDB",
       "url": "https://github.com/FrancioXavier/public-blog-app",
-      "git": true
+      "github": true
     },
     {
       "name": "Landing-page CodeWeb Squad",
       "url": "https://github.com/orgs/CodeWeb-Squad/repositories",
-      "git": true
+      "github": true
     },
     {
       "name": "Sistema de CRUD simples com Node.js e MySQL com sequelize",
       "url": "https://github.com/FrancioXavier/aplicacao-node",
-      "git": true
+      "github": true
     }
   ],
   "experiencias": [
