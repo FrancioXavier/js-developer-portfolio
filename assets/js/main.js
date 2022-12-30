@@ -41,15 +41,23 @@ function updateLanguages(profileData){
 function updatePortfolio(profileData){
     const portfolio = document.getElementById('profile.portfolio')
 
-    portfolio.innerHTML = profileData.portfolio.map(project => 
-        `<li>
+    portfolio.innerHTML = profileData.portfolio.map(project => {
+        return `<li>
             <h3 ${project.github ? "class = 'github'": ''}>${project.name}</h3>
             <a href="${project.url}" target="_blank">${project.url}</a>
-        </li>`).join('')
+        </li>`
+    }).join('')
 }
 
 function updateExperiences(profileData){
-    const experiences = document.getElementById()
+    const experiences = document.getElementById('profile.experiences')
+    experiences.innerHTML = profileData.experiences.map(experience => {
+        return `<li>
+                    <h3 class="title">${experience.name}</h3>
+                    <p class="period">${experience.period}</p>
+                    <p >${experience.description}</p>
+               </li>`
+    }).join('')
 }
 
 (async () => { 
@@ -60,4 +68,5 @@ function updateExperiences(profileData){
     updateHardSkills(profileData)
     updateLanguages(profileData)
     updatePortfolio(profileData)
+    updateExperiences(profileData)
 })()
