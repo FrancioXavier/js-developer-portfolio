@@ -67,7 +67,7 @@ function updateEducation(profileData){
         return `<li>
                     <h3 class="title">${education.name}</h3>
                     <p class="period">${education.period}</p>
-                    <p>${education.instituition}</p>
+                    <p class="graduation">${education.instituition}</p>
                     <p >${education.description}</p>
                </li>`
     }).join('')
