@@ -89,15 +89,11 @@
       "github": true
     }
   ],
-  "experiencias": [
+  "experiences": [
     {
-      "nome": "Desenvolvedor Back-end ",
-      "descricao": "",
-      "instituicao": "Empresa jr. Calang.io",
-      "periodo": {
-        "inicio": "11/2022",
-        "fim": "Atualmente"
-      }
+      "name": "Desenvolvedor Back-end / Empresa jr. Calang.io",
+      "description": "",
+      "period": "2022 - atualmente"
     }
   ]
 }
