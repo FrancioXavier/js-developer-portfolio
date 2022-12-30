@@ -74,16 +74,19 @@
   ],
   "portfolio": [
     {
-      "nome": "Blog feito com Node.js e MongoDB",
-      "gitHub": "https://github.com/FrancioXavier/public-blog-app"
+      "name": "Blog feito com Node.js e MongoDB",
+      "url": "https://github.com/FrancioXavier/public-blog-app",
+      "git": true
     },
     {
-      "nome": "Landing-page CodeWeb Squad",
-      "gitHub": "https://github.com/orgs/CodeWeb-Squad/repositories"
+      "name": "Landing-page CodeWeb Squad",
+      "url": "https://github.com/orgs/CodeWeb-Squad/repositories",
+      "git": true
     },
     {
-      "nome": "Sistema de CRUD simples com Node.js e MySQL com sequelize",
-      "gitHub": "https://github.com/FrancioXavier/aplicacao-node"
+      "name": "Sistema de CRUD simples com Node.js e MySQL com sequelize",
+      "url": "https://github.com/FrancioXavier/aplicacao-node",
+      "git": true
     }
   ],
   "experiencias": [
