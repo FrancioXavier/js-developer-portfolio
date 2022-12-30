@@ -1,12 +1,9 @@
 {
-  "nome": "Francio Xavier",
-  "titulo": "Junior developer",
-  "localidade": {
-    "cidade": "Juazeiro do Norte",
-    "estado": "Ceará",
-    "pais": "Brasil"
-  },
-  "telefone": "(88) 98222-0811",
+  "name": "Francio Xavier",
+  "photo": "https://avatars.githubusercontent.com/u/103940118?v=4",
+  "job": "Junior developer",
+  "location":"Juazeiro do Norte - CE",
+  "phone": "(88) 98222-0811",
   "email": "francioxavierdev@gmail.com",
   "skills": {
     "hardSkills": [
