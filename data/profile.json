@@ -9,31 +9,31 @@
     "hardSkills": [
       {
         "name": "Javascript",
-        "logo": "TODO"
+        "logo": "https://raw.githubusercontent.com/FrancioXavier/js-developer-portfolio/192d4e14d38182a571e7b297c9602977d56c96b2/data/img/js.svg"
       },
       {
         "name": "Node.JS",
-        "logo": "TODO"
+        "logo": "https://raw.githubusercontent.com/FrancioXavier/js-developer-portfolio/192d4e14d38182a571e7b297c9602977d56c96b2/data/img/node.svg"
       },
       {
         "name": "HTML5",
-        "logo": "TODO"
+        "logo": "https://raw.githubusercontent.com/FrancioXavier/js-developer-portfolio/192d4e14d38182a571e7b297c9602977d56c96b2/data/img/html.svg"
       },
       {
         "name": "CSS3",
-        "logo": "TODO"
+        "logo": "https://raw.githubusercontent.com/FrancioXavier/js-developer-portfolio/192d4e14d38182a571e7b297c9602977d56c96b2/data/img/css.svg"
       },
       {
         "name": "MySQL",
-        "logo": "TODO"
+        "logo": "https://raw.githubusercontent.com/FrancioXavier/js-developer-portfolio/192d4e14d38182a571e7b297c9602977d56c96b2/data/img/mysql.svg"
       },
       {
         "name": "MongoDB",
-        "logo": "TODO"
+        "logo": "https://raw.githubusercontent.com/FrancioXavier/js-developer-portfolio/192d4e14d38182a571e7b297c9602977d56c96b2/data/img/mongodb.svg"
       },
       {
         "name": "Git",
-        "logo": "TODO"
+        "logo": "https://raw.githubusercontent.com/FrancioXavier/js-developer-portfolio/192d4e14d38182a571e7b297c9602977d56c96b2/data/img/git.svg"
       }
     ],
     "softSkills": [
