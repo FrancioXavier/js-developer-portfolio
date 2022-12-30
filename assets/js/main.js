@@ -73,6 +73,17 @@ function updateEducation(profileData){
     }).join('')
 }
 
+function updateCertificates(profileData){
+    const certificates = document.getElementById('profile.certificates');
+
+    certificates.innerHTML = profileData.certificates.map(certificate => {
+        return `<li>
+                    <h3 class="title">${certificate.name}</h3>
+                    <a class="certificate" href="${certificate.link}" target="_blank">${certificate.link}</a>
+                </li>`
+    }).join('')
+}
+
 (async () => { 
 
     const profileData = await fetchProfileData();
@@ -83,4 +94,5 @@ function updateEducation(profileData){
     updatePortfolio(profileData)
     updateExperiences(profileData)
     updateEducation(profileData)
+    updateCertificates(profileData)
 })()
