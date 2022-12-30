@@ -48,6 +48,10 @@ function updatePortfolio(profileData){
         </li>`).join('')
 }
 
+function updateExperiences(profileData){
+    const experiences = document.getElementById()
+}
+
 (async () => { 
 
     const profileData = await fetchProfileData();
