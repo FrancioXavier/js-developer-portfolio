@@ -8,27 +8,31 @@
   "skills": {
     "hardSkills": [
       {
-        "nome": "Javascript",
+        "name": "Javascript",
         "logo": "TODO"
       },
       {
-        "nome": "Node.JS",
+        "name": "Node.JS",
         "logo": "TODO"
       },
       {
-        "nome": "HTML5",
+        "name": "HTML5",
         "logo": "TODO"
       },
       {
-        "nome": "CSS3",
+        "name": "CSS3",
         "logo": "TODO"
       },
       {
-        "nome": "MySQL",
+        "name": "MySQL",
         "logo": "TODO"
       },
       {
-        "nome": "MongoDB",
+        "name": "MongoDB",
+        "logo": "TODO"
+      },
+      {
+        "name": "Git",
         "logo": "TODO"
       }
     ],
