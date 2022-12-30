@@ -48,14 +48,8 @@
     ]
   },
   "idiomas": [
-    {
-      "nome": "Português",
-      "nivel": "Nativo"
-    },
-    {
-      "nome": "Inglês",
-      "nivel": "Intermediário"
-    }
+    "Português - BR (nativo)",
+    "Inglês (intermediário)"
   ],
   "educacao": [
     {
