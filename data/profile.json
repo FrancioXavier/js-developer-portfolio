@@ -56,17 +56,17 @@
       "name": "Bacharelado em Ciência da Computação",
       "description": "",
       "instituition": "Universidade Federal do Cariri",
-      "period": "2022 - atualmente",
-      "certificates": [
-        {
-          "name": "Dominando Conceitos Avançados em JavaScript",
-          "link": "https://www.dio.me/certificate/E008C0D9"
-        },
-        {
-          "name": "Criando e Estilizando uma Página de Portfólio Profissional com CSS e JavaScript",
-          "link": "https://www.dio.me/certificate/978280ED"
-        }
-      ]
+      "period": "2022 - atualmente"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Dominando Conceitos Avançados em JavaScript",
+      "link": "https://www.dio.me/certificate/E008C0D9"
+    },
+    {
+      "name": "Criando e Estilizando uma Página de Portfólio Profissional com CSS e JavaScript",
+      "link": "https://www.dio.me/certificate/978280ED"
     }
   ],
   "portfolio": [
