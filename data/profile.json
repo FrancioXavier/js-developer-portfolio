@@ -36,8 +36,8 @@
         "logo": "https://raw.githubusercontent.com/FrancioXavier/js-developer-portfolio/projeto-base/data/img/git.png"
       },
       {
-        "name": "Python",
-        "logo": "https://raw.githubusercontent.com/FrancioXavier/js-developer-portfolio/projeto-base/data/img/python.png"
+        "name": "TypeScript",
+        "logo": "https://raw.githubusercontent.com/FrancioXavier/js-developer-portfolio/projeto-base/data/img/ts.svg"
       }
     ],
     "softSkills": [
