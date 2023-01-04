@@ -67,6 +67,22 @@
     {
       "name": "Criando e Estilizando uma Página de Portfólio Profissional com CSS e JavaScript",
       "link": "https://www.dio.me/certificate/978280ED"
+    },
+    {
+      "name": "Aplicando o Estilo Arquitetural REST com Node.js",
+      "link": "https://www.dio.me/certificate/73651F84"
+    },
+    {
+      "name": "Microsserviços e Integrações com Node.js",
+      "link": "https://www.dio.me/certificate/BDE15A1D"
+    },
+    {
+      "name": "Node.js com Bancos de Dados Relacionais (SQL)",
+      "link": "https://www.dio.me/certificate/0400D28A"
+    },
+    {
+      "name": "Introdução ao TypeScript",
+      "link": "https://www.dio.me/certificate/F3D7C2C1"
     }
   ],
   "portfolio": [
@@ -83,6 +99,16 @@
     {
       "name": "Sistema de CRUD simples com Node.js e MySQL com sequelize",
       "url": "https://github.com/FrancioXavier/aplicacao-node",
+      "github": true
+    },
+    {
+      "name": "API de autenticação de usuário com JWT feita com arquitetura REST",
+      "url": "https://github.com/FrancioXavier/REST-api",
+      "github": true
+    },
+    {
+      "name": "Programa feito para estudos de Typescript",
+      "url": "https://github.com/FrancioXavier/estudos-Typescript",
       "github": true
     }
   ],
