@@ -87,6 +87,10 @@
     {
       "name": "Introdução ao TypeScript",
       "link": "https://www.dio.me/certificate/F3D7C2C1"
+    },
+    {
+      "name": "Fundamentos do React",
+      "link": "https://www.dio.me/certificate/91911E8F/share"
     }
   ],
   "portfolio": [
@@ -123,6 +127,11 @@
     {
       "name": "RESTful API com Node.js, Typescript e Postgresql ",
       "url": "https://github.com/FrancioXavier/goomer-backend-challenge",
+      "github": true
+    },
+    {
+      "name": "Calculadora feita com React",
+      "url": "https://github.com/FrancioXavier/calculadora",
       "github": true
     }
   ],
