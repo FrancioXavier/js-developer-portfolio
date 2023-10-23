@@ -42,6 +42,14 @@
       {
         "name": "Postgresql",
         "logo": "https://raw.githubusercontent.com/FrancioXavier/js-developer-portfolio/main/data/imgs/postgresql.png"
+      },
+      {
+        "name": "PHP",
+        "logo": "https://raw.githubusercontent.com/FrancioXavier/js-developer-portfolio/main/data/imgs/php.png"
+      },
+      {
+        "name": "Laravel",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"
       }
     ],
     "softSkills": [
@@ -143,7 +151,12 @@
     {
       "name": "Desenvolvedor Back-end / Empresa jr. Calang.io",
       "description": "Empresa junior de Ciência da Computação da UFCA com foco em desenvolvimento de software",
-      "period": "2022 - atualmente"
+      "period": "11/2022 - 07/2022"
+    },
+    {
+      "name": "Desenvolvedor Full-stack / Programa Eficiência",
+      "description": "Desenvolvia sistemas de gestão pública utilizando Laravel",
+      "period": "05/2023 - 10/2023"
     }
   ]
 }
